@@ -1,10 +1,6 @@
 # form-login
 Formulário login 
-<h1 align="center"> Habits </h1>
-
-<p align="center">
-Formulário simples para treino e estudo <br/>
-</p>
+<h1 align="center"> Form Login</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +10,7 @@ Formulário simples para treino e estudo <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/image.png" width="100%">
+  <img alt="projeto Habits" src=".github/image.image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página simples login para estudo e treino das tecnologias envolvidas.
 
-- [Visite o projeto online]
+- [Visite o projeto online] https://sueecabral.github.io/form-login/
 
 
 
