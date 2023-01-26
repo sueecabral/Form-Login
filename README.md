@@ -10,7 +10,7 @@ Formulário login
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/image.image.png" width="100%">
+  <img alt="projeto form login" src=".image/image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
