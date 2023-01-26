@@ -104,18 +104,18 @@ form input[type=password]:focus{
     form{
         background-color: #ccc;
         padding: 35px;
-        width: 320px;   
+        width: 330px;   
         position: absolute;
-        left: 20%;
+        left: 41%;
         top: 40%;
         transform: translate(-40%,-40%);
     }
     
     label{
         position: absolute;
-        left: 260px;
+        left: 270px;
         margin-top: 24px;
     }
-    
+
 }
 
