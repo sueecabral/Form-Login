@@ -10,7 +10,7 @@ Formulário login
 <br>
 
 <p align="center">
-  <img alt="projeto form login" src=".image/image.png" width="100%">
+  <img alt="projeto form login" src=".image/form-login-image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página simples login para estudo e treino das tecnologias envolvidas.
+Uma formulário de login para estudo e treino das tecnologias envolvidas.
 
 - [Visite o projeto online] https://sueecabral.github.io/form-login/
 
